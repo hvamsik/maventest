@@ -1,5 +1,7 @@
 package jar;
 
+/*  test java code */
+
 /**
  * Hello world!
  *
